@@ -7,6 +7,8 @@ const App = () => {
       <Text style={styles.text}>Hello, World!</Text>
     </View>
   );
+
+  
 };
 
 const styles = StyleSheet.create({
